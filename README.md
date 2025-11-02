@@ -22,8 +22,9 @@ https://drive.google.com/file/d/1mMZoB3BR4ctv6sp0-ShMdmL-qF83zw9R/view?usp=shari
 https://drive.google.com/file/d/1n2mYAba57cHL6zdk8IAUJb49mz1Ls_AV/view?usp=sharing
 ```
 
-> Download all the files into data folder of the project
-> You can also use **`data_cleaning.py`** to create **Cleaned Dataset**
+## Data Setup
+- Download all the files into `data/` folder of the project
+- You can also use **`data_cleaning.py`** to create **Cleaned Dataset** 
 
 ---
 
